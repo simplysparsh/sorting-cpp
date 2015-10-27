@@ -1,0 +1,5 @@
+# Mac Finder files
+/.DS_Store
+
+# RubyMine config files
+/.idea
